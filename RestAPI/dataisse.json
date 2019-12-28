@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "RA"
+       },
+       "summary": "New Defect",
+       "description": "This is created from postman for jira dec2019",
+       "issuetype": {
+          "name": "Bug"
+       }
+   }
+}
